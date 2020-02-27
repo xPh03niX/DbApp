@@ -53,8 +53,8 @@ class App extends Component {
 	    <div className = "logo-container">
 	      <img
 	        className = "app-logo"
-	    	src = "logo.svg"
-	    	alt = "React App"
+	    	src = "images/MovieDB.png"
+	    	alt = "Powered by MovieDB"
 	      />
 	    </div>
 
@@ -321,11 +321,6 @@ class App extends Component {
 		  sortBy: "desc",
 		  label: "Sort by Popularity(High to Low)\u00A0 \u00A0"
 	        },
-		{
-		  dataField: "primary_release_date",
-		  sortBy: "desc",
-		  label: "Sort by Release Date(New to Old) \u00A0"
-		},
 		{
 		  dataField: "vote_average",
 		  sortBy: "desc",
