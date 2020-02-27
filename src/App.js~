@@ -323,7 +323,7 @@ class App extends Component {
 		  label: "Sort by Popularity(High to Low)\u00A0 \u00A0"
 	        },
 		{
-		  dataField: "release_date",
+		  dataField: "latest",
 		  sortBy: "desc",
 		  label: "Sort by Release Date(New to Old) \u00A0"
 		},
