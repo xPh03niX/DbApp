@@ -6,7 +6,6 @@ import { SingleRange } from '@appbaseio/reactivesearch';
 import { RangeSlider } from '@appbaseio/reactivesearch';
 import { MultiDataList } from '@appbaseio/reactivesearch';
 import { DateRange } from '@appbaseio/reactivesearch';
-import { SelectedFilters } from '@appbaseio/reactivesearch';
 import { ReactiveList } from '@appbaseio/reactivesearch';
 import "./App.css";
 
@@ -323,7 +322,7 @@ class App extends Component {
 		  label: "Sort by Popularity(High to Low)\u00A0 \u00A0"
 	        },
 		{
-		  dataField: "release_date",
+		  dataField: "primary_release_date",
 		  sortBy: "desc",
 		  label: "Sort by Release Date(New to Old) \u00A0"
 		},
