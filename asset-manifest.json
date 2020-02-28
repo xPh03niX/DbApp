@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DbApp/static/css/main.481907e8.chunk.css",
+    "main.js": "/DbApp/static/js/main.e3d8cd57.chunk.js",
+    "main.js.map": "/DbApp/static/js/main.e3d8cd57.chunk.js.map",
+    "runtime-main.js": "/DbApp/static/js/runtime-main.3235d653.js",
+    "runtime-main.js.map": "/DbApp/static/js/runtime-main.3235d653.js.map",
+    "static/js/2.60ef9171.chunk.js": "/DbApp/static/js/2.60ef9171.chunk.js",
+    "static/js/2.60ef9171.chunk.js.map": "/DbApp/static/js/2.60ef9171.chunk.js.map",
+    "index.html": "/DbApp/index.html",
+    "precache-manifest.e17d1d04af6f96a7b16ffc47997f2bfd.js": "/DbApp/precache-manifest.e17d1d04af6f96a7b16ffc47997f2bfd.js",
+    "service-worker.js": "/DbApp/service-worker.js",
+    "static/css/main.481907e8.chunk.css.map": "/DbApp/static/css/main.481907e8.chunk.css.map",
+    "static/js/2.60ef9171.chunk.js.LICENSE.txt": "/DbApp/static/js/2.60ef9171.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3235d653.js",
+    "static/js/2.60ef9171.chunk.js",
+    "static/css/main.481907e8.chunk.css",
+    "static/js/main.e3d8cd57.chunk.js"
+  ]
+}
